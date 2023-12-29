@@ -27,6 +27,7 @@ $config = Configure::getConfig();
     </head>
     <body>
     <?php $this->beginBody() ?>
+    hieu dep trai
     <?= $content ?>
     <?php $this->endBody() ?>
     </body>
